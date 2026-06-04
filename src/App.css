@@ -1,0 +1,12 @@
+.gradient-color {
+    background: linear-gradient(#29ABE229,#0015FF00 );
+}
+ /* Optional: In your global CSS */
+input[type="date"]::-webkit-calendar-picker-indicator {
+  opacity: 0;
+  display: none;
+}
+
+.button-bg {
+background: linear-gradient(90deg,rgba(54, 192, 239, 1) 0%, rgba(41, 171, 226, 1) 50%);
+}
